@@ -1,0 +1,6 @@
+
+This is a practice
+
+step one create file
+
+step two commit it
